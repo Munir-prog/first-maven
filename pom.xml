@@ -16,6 +16,12 @@
     </modules>
 
     <name>first-maven</name>
+
+    <scm>
+        <connection>scm:git:git@github.com:Munir-prog/first-maven.git</connection>
+        <developerConnection>scm:git:git@github.com:Munir-prog/first-maven.git</developerConnection>
+        <url>https://github.com/Munir-prog/first-maven</url>
+    </scm>
     <properties>
         <app.env>dev</app.env>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

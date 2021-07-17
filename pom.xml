@@ -4,7 +4,7 @@
 
     <groupId>com.mprog</groupId>
     <artifactId>first-maven</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.2-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <modules>
@@ -19,7 +19,7 @@
         <connection>scm:git:git@github.com:Munir-prog/first-maven.git</connection>
         <developerConnection>scm:git:git@github.com:Munir-prog/first-maven.git</developerConnection>
         <url>https://github.com/Munir-prog/first-maven</url>
-      <tag>first-maven-1.0.1</tag>
+      <tag>HEAD</tag>
   </scm>
     <properties>
         <app.env>dev</app.env>
